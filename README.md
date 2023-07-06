@@ -1,13 +1,6 @@
-Welcome! 
+# Tu Là Chuyển Nghiệp
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+HT. Thích Thanh Từ
 
-This template provides a skeleton file structure that you can edit to create your book. 
-
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
-
-Additional resources:
-
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+Đọc sách và download tại:  
+[https://thichthanhtu.github.io/tu-la-chuyen-nghiep](https://thichthanhtu.github.io/tu-la-chuyen-nghiep)
