@@ -1,0 +1,16 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><center><a href="./">Tu Là Chuyển Nghiệp</a></center></li>
+      after: |
+        <li><center><a href="https://thichthanhtu.github.io/">Tủ sách Hòa thượng Thích Thanh Từ</a></center></li>        
+    download: ["epub"]    
+    sharing:
+      facebook: false
+      twitter: false
+    info: false
+
+# bookdown::epub_book: default

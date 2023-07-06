@@ -1,0 +1,61 @@
+body {
+  text-align: justify;
+}
+
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+  text-align: left;
+}
+
+p.author {
+  text-indent: 0;
+  text-align: center;
+  font-style: italic;
+}
+
+#header img {
+  display: block;
+  margin: auto;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-center {
+  text-align: center;
+}
+
+p {
+  text-indent: 1.2em;
+}
+
+blockquote p, li p {
+  text-indent: 0
+}
+
+.align-right blockquote {
+  border-left: 0 !important;
+}
+
+.align-center blockquote {
+  border-left: 0 !important;
+};
