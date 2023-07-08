@@ -178,10 +178,12 @@ Ma hỏi:
   
 Thái tử đáp bằng bài kệ:  
   
+<div class="align-center">
 > Giáp nhơn, cung tam muội  
 > Tay cầm tên trí tuệ  
 > Phước nghiệp làm binh khí  
 > Nay sẽ phá quân ngươi  
+</div>
   
 Ma bảo:  
   

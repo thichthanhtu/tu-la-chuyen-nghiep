@@ -35,21 +35,18 @@ cover-image: "images/cover.png"
   
 Tuyển tập 7 bài viết về Nghiệp trong Phật giáo của Hòa thượng Thích Thanh Từ:  
 
-- [Tu là phải hiền](#tu-la-phai-hien)
-- [Nghiệp dẫn đi trong luân hồi lục đạo](#nghiep-dan-di-trong-luan-hoi-luc-dao)
-- [Biệt nghiệp và đồng nghiệp](#biet-nghiep-va-dong-nghiep)
-- [Chánh báo và y báo](#chanh-bao-va-y-bao)
-- [Bồ Tát sợ nhân, chúng sanh sợ quả](#bo-tat-so-nhan-chung-sanh-so-qua)
-- [Thần thông và nghiệp lực](#than-thong-va-nghiep-luc)
-- [Tu có chuyển được nhân quả không?](#tu-co-chuyen-duoc-nhan-qua-khong)
+1. [Tu là phải hiền](tu-la-phai-hien.html)
+2. [Nghiệp dẫn đi trong luân hồi lục đạo](nghiep-dan-di-trong-luan-hoi-luc-dao.html)
+3. [Biệt nghiệp và đồng nghiệp](biet-nghiep-va-dong-nghiep.html)
+4. [Chánh báo và y báo](chanh-bao-va-y-bao.html)
+5. [Bồ Tát sợ nhân, chúng sanh sợ quả](bo-tat-so-nhan-chung-sanh-so-qua.html)
+6. [Thần thông và nghiệp lực](than-thong-va-nghiep-luc.html)
+7. [Tu có chuyển được nhân quả không?](tu-co-chuyen-duoc-nhan-qua-khong.html)
 
-Download:  
+Download: [EPUB](https://thichthanhtu.github.io/tu-la-chuyen-nghiep/tu-la-chuyen-nghiep.epub)  
 
-- [EPUB](https://thichthanhtu.github.io/tu-la-chuyen-nghiep/tu-la-chuyen-nghiep.epub)
+___  
 
-Hoan nghênh chia sẻ, phổ biến!  
-
-___
 <small>Lưu ý: Có thể ấn vào biểu tượng chữ “A” phía trên cùng để điều chỉnh giao diện, phông chữ.</small>  
 
 <small>[Background vector created by macrovector_official - www.freepik.com](https://www.freepik.com/vectors/background)</small>
