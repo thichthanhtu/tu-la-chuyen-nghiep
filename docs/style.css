@@ -59,3 +59,13 @@ blockquote p, li p {
 .align-center blockquote {
   border-left: 0 !important;
 };
+
+/* PART in menu */
+
+.book.color-theme-1 .book-summary ul.summary li.part span {
+  border-top: 1px solid #7e888b;
+}
+
+.book.color-theme-2 .book-summary ul.summary li.part span {
+  border-top: 1px solid #1C1F2B;
+}
